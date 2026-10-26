@@ -1,0 +1,6 @@
+{
+  "name": "Gestión Académica de Entregas Docentes",
+  "description": "Sistema de gestión y seguimiento de tareas y entregas de materias docentes por semestre con formulario interactivo CRUD y arquitectura de base de datos MySQL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
